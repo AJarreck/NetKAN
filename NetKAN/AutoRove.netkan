@@ -1,0 +1,9 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "AutoRove",
+    "$kref"        : "#/ckan/kerbalstuff/1387",
+    
+    "depends": [
+        { "name": "ModuleManager" },
+    ]
+}
